@@ -1,14 +1,13 @@
 ---
 title: ViewSystems
-date: 2023-01-16T14:15:54.155Z
+date: 2023-02-01T14:50:16.295Z
 resolved: false
-resolvedWhen: 
+resolvedWhen: null
 # Possible severity levels: down, disrupted, notice
 severity: down
 affected:
   - ViewSystems
 section: issue
-
 ---
 
 ViewSystems funktioniert nicht.
