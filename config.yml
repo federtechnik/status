@@ -171,6 +171,16 @@ params:
     - name: Teams
 #      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
       category: Nicht Kategorisiert
+    - name: FedERP
+#      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
+      category: Nicht Kategorisiert
+    - name: ViewSystems
+#      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
+      category: Nicht Kategorisiert
+    - name: DMS
+#      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
+      category: Nicht Kategorisiert
+
 
   # What date format to use?
   #
