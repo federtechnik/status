@@ -8,6 +8,7 @@ severity: disrupted
 affected:
   - API
 section: issue
+draft: true
 ---
 
 There may be disruptions in the rollout.

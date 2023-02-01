@@ -164,7 +164,7 @@ params:
 #      category: North Coast
     - name: Intranet
 #      description: Intranet
-#      category: Nicht Kategorisiert
+      category: Nicht Kategorisiert
     - name: ERP
 #      description: The guts of the application.
       category: Nicht Kategorisiert

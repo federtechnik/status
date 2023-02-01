@@ -9,6 +9,7 @@ affected:
   - API
   - Media Proxy
 section: issue
+draft: true
 ---
 
 *Post-mortem*

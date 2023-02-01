@@ -10,6 +10,7 @@ affected:
   - Media Proxy
   - Gateway
 section: issue
+draft: true
 ---
 
 *Resolved* -
