@@ -162,10 +162,9 @@ params:
 #      category: North Coast
     - name: Backup Gateway
 #      category: North Coast
-    - name: Website
-      description: The web frontend for the application.
+    - name: Intranet
+      description: Intranet
       category: Nicht Kategorisiert
-      link: https://example.com/
     - name: API
       description: The guts of the application.
       category: Nicht Kategorisiert
