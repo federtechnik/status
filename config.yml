@@ -143,10 +143,10 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
-      description: The main servers are located here.
-      closed: true
-    - name: Empty Category
+#    - name: North Coast
+#      description: The main servers are located here.
+#      closed: true
+#    - name: Empty Category
     - name: Nicht Kategorisiert
       untitled: true
 
@@ -165,11 +165,11 @@ params:
     - name: Intranet
       description: Intranet
       category: Nicht Kategorisiert
-    - name: API
-      description: The guts of the application.
+    - name: ERP
+#      description: The guts of the application.
       category: Nicht Kategorisiert
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
+    - name: Teams
+#      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
       category: Nicht Kategorisiert
 
   # What date format to use?
