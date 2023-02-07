@@ -180,6 +180,10 @@ params:
     - name: DMS
 #      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
       category: Nicht Kategorisiert
+    - name: Internet
+      category: Nicht Kategorisiert
+    - name: VPN
+      category: Nicht Kategorisiert
 
 
   # What date format to use?
