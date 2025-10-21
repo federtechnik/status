@@ -1,7 +1,7 @@
 ---
 title: ViewSystems
 date: 2023-02-01T14:50:16.295Z
-resolved: false
+resolved: true
 resolvedWhen: null
 # Possible severity levels: down, disrupted, notice
 severity: down
