@@ -8,7 +8,6 @@ severity: disrupted
 affected:
   - API
 section: issue
-draft: true
 ---
 
 *Update* - This incident has been resolved.

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Status Federtechnik</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on Status Federtechnik</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example Page</title>
+      <link>http://localhost:1313/pages/example-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/example-page/</guid>
+      <description>&lt;h1 id=&#34;title-here&#34;&gt;Title here!&lt;/h1&gt;&#xA;&lt;p&gt;This is an example page that demonstrates the capabilities of a Markdown page in cState.&lt;/p&gt;&#xA;&lt;p&gt;You can use HTML if the file extension is &lt;code&gt;.html&lt;/code&gt;, but this one is &lt;code&gt;.md&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Let us dive in.&lt;/p&gt;&#xA;&lt;p&gt;Paragraphs are separated by a blank line.&lt;/p&gt;&#xA;&lt;p&gt;2nd paragraph. &lt;em&gt;Italic&lt;/em&gt;, &lt;strong&gt;bold&lt;/strong&gt;, and &lt;code&gt;monospace&lt;/code&gt;. Itemized lists&#xA;look like:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;this one&lt;/li&gt;&#xA;&lt;li&gt;that one&lt;/li&gt;&#xA;&lt;li&gt;the other one&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Note that &amp;mdash; not considering the asterisk &amp;mdash; the actual text&#xA;content starts at 4-columns in.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
